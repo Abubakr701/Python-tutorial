@@ -1,21 +1,21 @@
-# About input() function
+# 🔹About input() function
 
 ---
 
-## What is `input()`, what can it do?
+## 🔹What is `input()`, what can it do?
 
 - `input()` is a built-in Python function used to take input from the user.
 - input("Enter your name: ") # This line displays the message "Enter your name:", and the program waits for the user to type something and press Enter.
 
 ---
 
-## How is it written incorrectly, and how is it written correctly?
+## 🔹How is it written incorrectly, and how is it written correctly?
 
 ### ✅ Correct Way to Use `input()`
 
 input("What is your name? ")
 
-#### Explanation:
+#### 🔹Explanation:
 
 - `input` is the name of the function.
 
@@ -64,7 +64,7 @@ input("What is your name?"
 
 ---
 
-## Example with `print()` and `input()`
+## 🔹Example with `print()` and `input()`
 
 - Code:
 print("2+2=")
