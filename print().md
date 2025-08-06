@@ -17,3 +17,5 @@ print()
 - print("2+2=", 2+2) # Output: 2+2=4
 - print("Name:", "Abubakr", "Age:", 12) # Output: Name:Abubakr Age:12
 - print() # Output: (nothing, just an empty line)
+
+---
