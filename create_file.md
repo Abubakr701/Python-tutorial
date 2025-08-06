@@ -17,5 +17,3 @@
 - Enter a name for the file, making sure to include the appropriate file extension (e.g., `.py`, `.md`, `.html`).
 - Click "Save" to create the new file.
 - The new file will now appear in the file explorer on the left side of the screen.
-
----
