@@ -40,5 +40,3 @@ This enables Python syntax highlighting, IntelliSense, debugging, and more.
 Save your file as `example.py` (for Python).
 
 ---
-
-## 🔹 Step 5: Write and Run Python Code
