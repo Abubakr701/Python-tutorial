@@ -1,6 +1,7 @@
 # 🐍 About Python
 
-**Python** is a powerful, easy-to-learn, and versatile programming language created by **Guido van Rossum** in the late 1980s. It emphasizes **code readability** and simplicity, making it ideal for both beginners and professionals.
+**Python** is a powerful, easy-to-learn, and versatile programming language created by **Guido van Rossum** in the late 1980s.
+It emphasizes **code readability** and simplicity, making it ideal for both beginners and professionals.
 
 ## ✅ Why Choose Python?
 - **Simple Syntax** – Easy to read and write, especially for beginners  
