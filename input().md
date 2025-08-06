@@ -9,7 +9,7 @@
 
 ---
 
-## How should it be written?
+## How is it written incorrectly, and how is it written correctly?
 
 ### ✅ Correct Way to Use `input()`
 
@@ -17,13 +17,50 @@ input("What is your name? ")
 
 #### Explanation:
 
-input is the name of the function.
+- `input` is the name of the function.
 
-"What is your name?" is the prompt shown to the user.
+- "What is your name?" is the prompt shown to the user.
 
-The text must be in quotes.
+- The text must be in quotes.
 
-The function must include parentheses.
+- The function must include parentheses.
+
+## ❌ Incorrect Examples and Errors
+
+### 1. ❌ Missing parentheses:
+
+input "What is your name?"
+
+🛑 Error: `SyntaxError: invalid syntax`
+✅ Correct: `input("What is your name?")`
+
+### 2. ❌ No quotes around the text:
+
+input(What is your name?)
+
+🛑 Error: `NameError: name 'What' is not defined`
+✅ Correct: `input("What is your name?")`
+
+### 3. ❌ Capitalized `Input`:
+
+Input("Enter something")
+
+🛑 Error: NameError: `name 'Input' is not defined`
+✅ Correct: `input("Enter something")`
+
+### 4. ❌ Unclosed quotes:
+
+input("What is your name?)
+
+🛑 Error: SyntaxError: `EOL while scanning string literal`
+✅ Correct: `input("What is your name?")`
+
+### 5. ❌ Unclosed parentheses:
+
+input("What is your name?"
+
+🛑 Error: SyntaxError: `unexpected EOF while parsing`
+✅ Correct: `input("What is your name?")`
 
 ---
 
