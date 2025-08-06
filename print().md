@@ -1,4 +1,4 @@
-# 🔹We started the lesson.
+# 🔹About print() function.
 
 ## 🔹Function syntax
 
