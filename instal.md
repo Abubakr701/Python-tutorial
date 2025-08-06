@@ -34,3 +34,5 @@
 2. Type:
    ```bash
    python --version
+
+---
